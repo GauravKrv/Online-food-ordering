@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Foodit</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="faq_fragment">FAQ fragment</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_otp">Enter received OTP below</string>
+    <string name="go_to_cart">Go to cart</string>
+</resources>
